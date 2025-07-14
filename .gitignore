@@ -1,0 +1,7 @@
+test_filt/
+__pycache__/
+*.png
+*.log
+*.docx
+*.json
+*.jpg
